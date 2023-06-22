@@ -13,8 +13,10 @@
 ![image](https://github.com/rolnzaza/Export-File-Excel-To-html/assets/51810037/a99124d2-40ee-4c5a-9d35-b356023b5892)
 
 7. เลือก Choose เป็น Previously published items
+   
 ![image](https://github.com/rolnzaza/Export-File-Excel-To-html/assets/51810037/7b9c2b0d-9249-44c2-b975-e557c6d124a4)
 
-8. กด publish อีกครั้ง
+9. กด publish อีกครั้ง
+    
 ![image](https://github.com/rolnzaza/Export-File-Excel-To-html/assets/51810037/695ed888-27f5-4a7e-a8a9-3faa42acc17a)
 
