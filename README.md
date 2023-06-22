@@ -7,9 +7,11 @@
 
 4. ตั้งชื่อไฟล์
 5. หลังจากนั้น เลือก Save as Type เป็น Web Page (*.htm;*.html)
+   
 ![3](https://github.com/rolnzaza/Export-File-Excel-To-html/assets/51810037/e9cc8b4f-5cf4-47a8-a7b0-ffff93f69ccd)
 
-6. กด Publish 
+6. กด Publish
+   
 ![image](https://github.com/rolnzaza/Export-File-Excel-To-html/assets/51810037/a99124d2-40ee-4c5a-9d35-b356023b5892)
 
 7. กด publish อีกครั้ง
